@@ -75,5 +75,5 @@ git push
 git checkout -b feature
 git branch -f main c1
 git push
-
+```
 ![alt text](image-7.png)
